@@ -1,5 +1,11 @@
 ## Some Neural Networks (Image recognition)
 
+Download Data from: https://www.kaggle.com/c/dogs-vs-cats/data
+
+Python Tools: 
+- TensorFlow
+- Keras
+
 Areas:
 - Perceptron model
 - Fully connected NN
